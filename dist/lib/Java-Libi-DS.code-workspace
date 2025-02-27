@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "University-Management-System-in-JavaFX",
+			"path": "../../../../Muhamed/University-Management-System-in-JavaFX"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"UniversitiyManagementSystem/build/classes/universitiymanagementsystem"
+		]
+	}
+}
